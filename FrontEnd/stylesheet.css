@@ -1,0 +1,17 @@
+#left-column {
+  width: 25%;
+  float: left;
+}
+
+
+.edit-form {
+  height: 2000px;
+  width: 75%;
+  float: right;
+}
+
+
+.form {
+  width: 50%;
+  float: right;
+}
